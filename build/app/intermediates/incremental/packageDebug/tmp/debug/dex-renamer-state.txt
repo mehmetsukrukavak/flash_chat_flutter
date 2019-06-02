@@ -1,4 +1,4 @@
-#Sat Jun 01 22:04:09 EET 2019
+#Sun Jun 02 09:37:40 EET 2019
 base.0=D\:\\flutter\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.1=classes2.dex
 renamed.1=classes2.dex
