@@ -1,7 +1,10 @@
-#Sun Jun 02 09:37:40 EET 2019
-base.0=D\:\\flutter\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Jun 03 11:20:10 EET 2019
+path.2=classes3.dex
 path.1=classes2.dex
-renamed.1=classes2.dex
 path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
 renamed.0=classes.dex
+base.2=D\:\\flutter\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 base.1=D\:\\flutter\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=D\:\\flutter\\flash-chat-flutter\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
